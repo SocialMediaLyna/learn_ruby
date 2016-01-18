@@ -28,7 +28,7 @@ class TestHello < MiniTest::Test
     # In hello.rb:
     #
     # def hello
-    #   "Hello!"
+    #   "hello!"
     # end
   end
 
